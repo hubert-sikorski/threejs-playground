@@ -1,0 +1,22 @@
+{
+  "name": "threejs-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princeelector/threejs-playground.git"
+  },
+  "author": "Hubert Sikorski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/princeelector/threejs-playground/issues"
+  },
+  "homepage": "https://github.com/princeelector/threejs-playground#readme",
+  "dependencies": {
+    "three": "^0.115.0"
+  }
+}
